@@ -1,0 +1,83 @@
+{
+  "af": {
+    "total_records": 2927,
+    "master": "data/af/master.jsonl",
+    "train": "data/af/data.jsonl",
+    "train_records": 2048,
+    "validation": "data/af/val.jsonl",
+    "validation_records": 879,
+    "split_ratio": "0.7/0.3"
+  },
+  "en": {
+    "total_records": 57795,
+    "master": "data/en/master.jsonl",
+    "train": "data/en/data.jsonl",
+    "train_records": 40456,
+    "validation": "data/en/val.jsonl",
+    "validation_records": 17339,
+    "split_ratio": "0.7/0.3"
+  },
+  "nr": {
+    "total_records": 77298,
+    "master": "data/nr/master.jsonl",
+    "train": "data/nr/data.jsonl",
+    "train_records": 54108,
+    "validation": "data/nr/val.jsonl",
+    "validation_records": 23190,
+    "split_ratio": "0.7/0.3"
+  },
+  "ss": {
+    "total_records": 335,
+    "master": "data/ss/master.jsonl",
+    "train": "data/ss/data.jsonl",
+    "train_records": 234,
+    "validation": "data/ss/val.jsonl",
+    "validation_records": 101,
+    "split_ratio": "0.7/0.3"
+  },
+  "st": {
+    "total_records": 6226,
+    "master": "data/st/master.jsonl",
+    "train": "data/st/data.jsonl",
+    "train_records": 4358,
+    "validation": "data/st/val.jsonl",
+    "validation_records": 1868,
+    "split_ratio": "0.7/0.3"
+  },
+  "tn": {
+    "total_records": 10684,
+    "master": "data/tn/master.jsonl",
+    "train": "data/tn/data.jsonl",
+    "train_records": 7478,
+    "validation": "data/tn/val.jsonl",
+    "validation_records": 3206,
+    "split_ratio": "0.7/0.3"
+  },
+  "ts": {
+    "total_records": 48971,
+    "master": "data/ts/master.jsonl",
+    "train": "data/ts/data.jsonl",
+    "train_records": 34279,
+    "validation": "data/ts/val.jsonl",
+    "validation_records": 14692,
+    "split_ratio": "0.7/0.3"
+  },
+  "xh": {
+    "total_records": 7957,
+    "master": "data/xh/master.jsonl",
+    "train": "data/xh/data.jsonl",
+    "train_records": 5569,
+    "validation": "data/xh/val.jsonl",
+    "validation_records": 2388,
+    "split_ratio": "0.7/0.3"
+  },
+  "zu": {
+    "total_records": 21376,
+    "master": "data/zu/master.jsonl",
+    "train": "data/zu/data.jsonl",
+    "train_records": 14963,
+    "validation": "data/zu/val.jsonl",
+    "validation_records": 6413,
+    "split_ratio": "0.7/0.3"
+  }
+}

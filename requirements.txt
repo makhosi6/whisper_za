@@ -1,5 +1,12 @@
 datasets>=2.6.1
 librosa
-evaluate>=0.30
+evaluate
 jiwer
 gradio
+transformers
+torch
+soundfile
+huggingface-hub
+accelerate>=0.20.0
+ffmpeg-python>=0.2.0
+tensorboard>=2.13.0
